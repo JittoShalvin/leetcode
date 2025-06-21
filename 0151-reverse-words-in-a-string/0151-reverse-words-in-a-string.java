@@ -18,9 +18,7 @@ class Solution {
                 res=w+" "+res;
             }
         }
-            if(res.isEmpty()){
-            return "";
-        }
+
     return res.substring(0,res.length()-1);
     }
 
