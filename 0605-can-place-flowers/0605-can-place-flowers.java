@@ -6,10 +6,11 @@ class Solution {
             if(i==0||flowerbed[i-1]==0 && i==flowerbed.length||flowerbed[i+1]==0){
                 flowerbed[i]=1;
                 c++;
-                i++;
+               
                 if(n==c){
                     return true;
                 }
+                 i++;
             }
         }
         
