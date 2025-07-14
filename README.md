@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/JittoShalvin/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/JittoShalvin/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JittoShalvin/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/JittoShalvin/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/JittoShalvin/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JittoShalvin/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JittoShalvin/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/JittoShalvin/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
