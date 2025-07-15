@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JittoShalvin/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/JittoShalvin/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/JittoShalvin/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
