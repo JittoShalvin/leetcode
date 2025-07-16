@@ -23,13 +23,12 @@ class Solution {
             odd++;
         }
     }
-    if(even>odd){
-        if(even>alt) return even;
-        else return alt;
+    if(even>=odd && even>alt){
+        return even;
     }
-    else{
-        if(odd>alt) return odd;
-        else return alt;    
+    else if(odd>=even && odd>alt){
+        return odd;
     }
+    else return alt;
     }
 }
