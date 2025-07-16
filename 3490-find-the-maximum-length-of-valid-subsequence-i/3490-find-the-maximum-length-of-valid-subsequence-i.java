@@ -23,6 +23,6 @@ class Solution {
             odd++;
         }
     }
-    return Math.max(alt,Math.max(odd,even));
+    return Math.max(odd,Math.max(alt,even));
     }
 }
