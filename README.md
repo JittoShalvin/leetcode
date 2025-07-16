@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JittoShalvin/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
