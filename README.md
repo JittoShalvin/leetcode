@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JittoShalvin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JittoShalvin/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JittoShalvin/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Sorting
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JittoShalvin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
