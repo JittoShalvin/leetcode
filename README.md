@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JittoShalvin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JittoShalvin/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/JittoShalvin/leetcode/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
