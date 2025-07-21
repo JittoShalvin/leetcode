@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/JittoShalvin/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/JittoShalvin/leetcode/tree/master/3396-valid-word) |
 ## Math
