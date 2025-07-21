@@ -9,13 +9,14 @@ class Solution {
             res[nums1.length+i]=nums2[i];
         }
         Arrays.sort(res);
-        int mid=out/2;
         double ans=0;
         if(out%2==0){
-            ans=(res[mid]+res[mid-1])/2.0;
+            out=out/2;
+            ans=(res[out]+res[out-1])/2.0;
         }
         else{
-            ans=res[mid];
+            out=out/2;
+            ans=res[out];
         }
         return ans;
     }
