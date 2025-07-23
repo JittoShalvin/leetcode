@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JittoShalvin/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/JittoShalvin/leetcode/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JittoShalvin/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
