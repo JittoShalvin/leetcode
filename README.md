@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JittoShalvin/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JittoShalvin/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JittoShalvin/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1813-maximum-erasure-value](https://github.com/JittoShalvin/leetcode/tree/master/1813-maximum-erasure-value) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JittoShalvin/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
