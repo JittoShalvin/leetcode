@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JittoShalvin/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/JittoShalvin/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/JittoShalvin/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JittoShalvin/leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/JittoShalvin/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JittoShalvin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/JittoShalvin/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JittoShalvin/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1813-maximum-erasure-value](https://github.com/JittoShalvin/leetcode/tree/master/1813-maximum-erasure-value) |
