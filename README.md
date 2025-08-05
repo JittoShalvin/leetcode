@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JittoShalvin/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/JittoShalvin/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JittoShalvin/leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JittoShalvin/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JittoShalvin/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
