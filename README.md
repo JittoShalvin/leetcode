@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/JittoShalvin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JittoShalvin/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JittoShalvin/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/JittoShalvin/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JittoShalvin/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JittoShalvin/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JittoShalvin/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JittoShalvin/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JittoShalvin/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/JittoShalvin/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JittoShalvin/leetcode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/JittoShalvin/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
