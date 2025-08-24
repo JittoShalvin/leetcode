@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/JittoShalvin/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JittoShalvin/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JittoShalvin/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/JittoShalvin/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/JittoShalvin/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JittoShalvin/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/JittoShalvin/leetcode/tree/master/0136-single-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/JittoShalvin/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/JittoShalvin/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/JittoShalvin/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/JittoShalvin/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/JittoShalvin/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/JittoShalvin/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/JittoShalvin/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JittoShalvin/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JittoShalvin/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JittoShalvin/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/JittoShalvin/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/JittoShalvin/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/JittoShalvin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JittoShalvin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/JittoShalvin/leetcode/tree/master/0217-contains-duplicate) |
