@@ -1,20 +1,19 @@
 class Solution {
     public int addDigits(int num) {
-        while (num >= 10) {
-        num = a(num);
+        while(num/10!=0){
+             num=a(num);
         }
+
         return num;
     }
-    public int a(int num){
-        int temp=0;
-        int nor=0;
-        while(num!=0){
-            temp=num%10;
-            nor+=temp;
-            num=num/10;
-
+        public int a(int a){
+            int b=0;
+            while(a!=0){
+                int c=a%10;
+                b=c+b;
+                a=a/10;
+            }
+            return b;
         }
-        return nor;
-
-    }
+    
 }
