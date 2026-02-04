@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JittoShalvin/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/JittoShalvin/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/JittoShalvin/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/JittoShalvin/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/JittoShalvin/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
