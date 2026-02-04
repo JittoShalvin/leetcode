@@ -3,16 +3,17 @@ import java.util.Arrays;
 
 class Solution {
     public int[] plusOne(int[] digits) {
-        String s = Arrays.toString(digits).replaceAll("\\[|\\]|,|\\s", "");
-        
-        BigInteger number = new BigInteger(s);
-        number = number.add(BigInteger.ONE); 
-        
-        String numStr = number.toString();
-        int[] result = new int[numStr.length()];
-        for (int i = 0; i < numStr.length(); i++) {
-            result[i] = Character.getNumericValue(numStr.charAt(i));
-        }
-        return result;
+            for(int i=digits.length-1;i>=0;i--){
+                if(digits[i]+1!=10){
+                    digits[i]++;
+                    return digits;
+                }
+                else{
+                    digits[i]=0;
+                }
+            }
+            digits=new int[digits .length+1];
+            digits[0]=1;
+            return digits;
     }
 }
