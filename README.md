@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JittoShalvin/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/JittoShalvin/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2544-alternating-digit-sum](https://github.com/JittoShalvin/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
