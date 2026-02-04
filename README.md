@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JittoShalvin/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/JittoShalvin/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3396-valid-word](https://github.com/JittoShalvin/leetcode/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/JittoShalvin/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JittoShalvin/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/JittoShalvin/leetcode/tree/master/0415-add-strings) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/JittoShalvin/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Binary Search
 |  |
 | ------- |
