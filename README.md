@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/JittoShalvin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/JittoShalvin/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/JittoShalvin/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JittoShalvin/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JittoShalvin/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/JittoShalvin/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JittoShalvin/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1768-merge-strings-alternately](https://github.com/JittoShalvin/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JittoShalvin/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/JittoShalvin/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3396-valid-word](https://github.com/JittoShalvin/leetcode/tree/master/3396-valid-word) |
