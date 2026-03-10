@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JittoShalvin/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/JittoShalvin/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JittoShalvin/leetcode/tree/master/0392-is-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JittoShalvin/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JittoShalvin/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/JittoShalvin/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/JittoShalvin/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JittoShalvin/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/JittoShalvin/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JittoShalvin/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/JittoShalvin/leetcode/tree/master/0476-number-complement) |
 ## Simulation
