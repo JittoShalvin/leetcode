@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JittoShalvin/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JittoShalvin/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/JittoShalvin/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JittoShalvin/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JittoShalvin/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/JittoShalvin/leetcode/tree/master/0136-single-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JittoShalvin/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/JittoShalvin/leetcode/tree/master/0338-counting-bits) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JittoShalvin/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/JittoShalvin/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/JittoShalvin/leetcode/tree/master/0190-reverse-bits) |
 ## Stack
 |  |
